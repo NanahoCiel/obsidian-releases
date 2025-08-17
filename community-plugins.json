@@ -18219,8 +18219,5 @@
   "author": "Ciel",
   "description": "Automatically creates backlinks between notes by scanning for note titles in text.",
   "repo": "NanahoCiel/obsidian-autobacklinker",
-  "branch": "main",
-  "version": "1.0.0",
-  "minAppVersion": "1.5.0"
   }
 ]
